@@ -1,5 +1,5 @@
 # Usage
 
 ```
-!pip install -q git+https://github.com/ywugwu/viz-utils@main
+pip install -q git+https://github.com/ywugwu/viz-utils@main
 ```
